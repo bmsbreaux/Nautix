@@ -25,7 +25,7 @@
 ## Other services:
 
 - brokerage & sales
-- engineering
+- project management & engineering
 - tech development
 - safety management system compliance
 - inspections, surveys, & audits
