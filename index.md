@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# NAUTIX MARITIME GROUP
 
-You can use the [editor on GitHub](https://github.com/bmsbreaux/Nautix/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## What we do:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- you own the vessel, we operate it for you 
+- we incubate new tech or operational ideas in the maritime & offshore oilfield
 
-### Markdown
+## Vessels we understand:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Offshore Service Vessels (Sub L - OSV)
+- Towing Vessels & Fleet Operations (Sub M - Tow)
+- Small Passenger Vessels (Sub T - Pax)
 
-```markdown
-Syntax highlighted code block
+## Full or Partial MGMT - your 1099 contractor for maritime management:
 
-# Header 1
-## Header 2
-### Header 3
+- on-demand crew services w/ our pool of crew members
+- personnel coordinators
+- operations managers
+- HSE & compliance personnel
+- Safety, training, & orientations
+- maintence call-outs
+- vendor management
+- billing, invoicing, & payroll
 
-- Bulleted
-- List
+## Other services:
 
-1. Numbered
-2. List
+- brokerage & sales
+- engineering
+- tech development
+- safety management system compliance
+- inspections, surveys, & audits
+- HR, Payroll, seatime & document management
+- safety & training
 
-**Bold** and _Italic_ and `Code` text
+## Vessels under partial mgmt:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bmsbreaux/Nautix/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- M/V Mister Cue (Sub M)
+- M/V G.W. Dunn (Sub M)
+- M/V Dustin Cole (Sub M)
+- M/V Helen G. Calyx (Sub T)
